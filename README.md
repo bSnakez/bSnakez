@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bSnakez
 - 👀 I’m interested in Nothing.
 - 🌱 I’m currently learning Solidity, React & Web3.js.
-- 📫 How to reach me ...
+- 📫 You can react me via burmesesnakez@gmail.com
 
 <!---
 bSnakez/bSnakez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
